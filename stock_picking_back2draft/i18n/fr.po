@@ -21,7 +21,7 @@ msgstr ""
 #. module: stock_picking_back2draft
 #: model:ir.ui.view,arch_db:stock_picking_back2draft.view_picking_form_reopen
 msgid "Back to draft"
-msgstr "Back to draft"
+msgstr "Mettre en brouillon"
 
 #. module: stock_picking_back2draft
 #: model:ir.model,name:stock_picking_back2draft.model_stock_move
@@ -31,13 +31,13 @@ msgstr "Mouvement de stock"
 #. module: stock_picking_back2draft
 #: model:ir.model,name:stock_picking_back2draft.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Transfert"
 
 #. module: stock_picking_back2draft
 #: code:addons/stock_picking_back2draft/models/stock.py:15
 #, python-format
 msgid "You can set to draft cancelled moves only"
-msgstr ""
+msgstr "Vous ne pouvez mettre en brouillon que les mouvements annulés"
 
 #~ msgid "Picking List"
 #~ msgstr "Bon de livraison"
